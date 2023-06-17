@@ -10,7 +10,7 @@ import WeekTask from './components/WeekTask';
 
 const App = () => {
     return (
-        <div className='ui container' >
+        <div className=' container' >
             <Router history={history}>
                 <Header />
                 <Switch>
